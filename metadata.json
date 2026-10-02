@@ -1,0 +1,6 @@
+{
+  "name": "DevQuest",
+  "description": "Gamified MERN + AI software engineering learning platform with client missions, AI mentor, code reviews, and career progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
